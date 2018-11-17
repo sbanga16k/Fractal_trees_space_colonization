@@ -1,0 +1,11 @@
+﻿  Tree.cpp
+c:\users\saura\desktop\fall_2018\ec\assignments\individual_project\individual_project2\individual_project2\tree.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\saura\desktop\fall_2018\ec\assignments\individual_project\individual_project2\individual_project2\tree.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\saura\desktop\fall_2018\ec\assignments\individual_project\individual_project2\individual_project2\tree.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\saura\desktop\fall_2018\ec\assignments\individual_project\individual_project2\individual_project2\tree.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\saura\desktop\fall_2018\ec\assignments\individual_project\individual_project2\individual_project2\tree.cpp(155): warning C4018: '<': signed/unsigned mismatch
+  Phase2_Main.cpp
+  Leaf.cpp
+  Branch.cpp
+  Generating Code...
+  Individual_project2.vcxproj -> C:\Users\saura\Desktop\Fall_2018\EC\Assignments\Individual_project\Individual_project2\Debug\Individual_project2.exe
